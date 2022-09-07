@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://my-portfolio-taupe-pi.vercel.app/)
 
 ### Built with
 
@@ -50,6 +50,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [tuanah252](https://www.frontendmentor.io/profile/tuanah252)
 
