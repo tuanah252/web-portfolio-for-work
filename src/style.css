@@ -140,7 +140,8 @@ a {
     ;
     grid-template-columns: 354px 164px 164px 354px;
     grid-template-rows: 182px;
-    gap: 25px
+    gap: 25px;
+    justify-content: center;
 }
 
 .square-box {
@@ -304,7 +305,9 @@ a {
 
 .slide-image div img {
     border-radius: 18px;
+    cursor: grab;
 }
+
 
 .slide-image div {
     margin: 0 20px 0;
